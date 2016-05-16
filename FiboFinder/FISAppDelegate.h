@@ -11,5 +11,7 @@
  * Declare your method here.
  
  */
+-(NSArray*)arrayWithFibonacciSequenceToIndex:(NSInteger)index; 
+
 
 @end
